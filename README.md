@@ -4,12 +4,12 @@ RAG pipeline components for building retrieval-augmented generation systems that
 
 ## What this covers
 
-- **Document loaders** — PDF, HTML, Markdown, CSV, and API-based ingestion
-- **Chunking strategies** — Recursive, semantic, and document-aware splitting
-- **Embeddings** — OpenAI, HuggingFace, and Cohere embedding generation
-- **Vector stores** — FAISS, Pinecone, Weaviate, and pgvector integrations
-- **Retrieval** — Similarity search, MMR, hybrid search, and reranking
-- **Evaluation** — Retrieval accuracy metrics and answer quality scoring
+- **Document loaders** - PDF, HTML, Markdown, CSV, and API-based ingestion
+- **Chunking strategies** - Recursive, semantic, and document-aware splitting
+- **Embeddings** - OpenAI, HuggingFace, and Cohere embedding generation
+- **Vector stores** - FAISS, Pinecone, Weaviate, and pgvector integrations
+- **Retrieval** - Similarity search, MMR, hybrid search, and reranking
+- **Evaluation** - Retrieval accuracy metrics and answer quality scoring
 
 ## Stack
 
